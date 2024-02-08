@@ -20,5 +20,6 @@ Neste projeto aprendi a programar com HTML básico e CSS básico, para criar uma
 
 ## 📚 Contato
 
-lucas.primati@hotmail.com
+- 📧 - lucas.primati@hotmail.com
+- 👨🏽‍💼 - https://www.linkedin.com/in/lucas-primati/
 
